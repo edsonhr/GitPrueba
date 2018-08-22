@@ -1,3 +1,7 @@
 gflkgjdflkgdklfg
+<<<<<<< HEAD
 
 Adios
+=======
+hola soy tu padre
+>>>>>>> 1d7f7d89b005d6591d41ce6e4c3fb911328a2bc1
